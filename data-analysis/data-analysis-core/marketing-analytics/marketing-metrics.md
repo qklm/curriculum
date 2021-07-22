@@ -55,14 +55,14 @@ Other key marketing metrics to track are:
 
 ## Practice
 
-Customer Aquisition Cost can be measured using the following formula:
+Customer Acquisition Cost can be measured using the following formula:
 
 ```plain-text
 ??? + Time Spent / ???
 ```
 
 - Money
-- Number of customers aquired
+- Number of customers acquired
 - Average revenue per customer
 - Number of years active
 
